@@ -1,0 +1,30 @@
+# Binarios descargados automáticamente
+*.exe
+*.dll
+ffmpeg*
+ffprobe*
+deno*
+yt-dlp*
+
+# Configuración local y logs
+YtDOWNLOADER_config.json
+YtDOWNLOADER_history.jsonl
+YtDOWNLOADER_debug.log
+YtDOWNLOADER_error.log
+*.log
+
+# Descargas temporales
+*.part
+*.ytdl
+*.tmp
+*.download
+*.frag
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Accesos directos locales
+*.lnk

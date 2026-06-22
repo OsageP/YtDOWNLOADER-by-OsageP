@@ -1,0 +1,13 @@
+{
+  "DownloadFolder": "%USERPROFILE%\\Downloads",
+  "Mode": "Video",
+  "VideoQuality": "Mejor calidad disponible",
+  "Mp3Quality": "Mejor calidad",
+  "DownloadPlaylist": false,
+  "OpenFolderWhenFinished": false,
+  "Theme": "Sistema",
+  "EnableHistory": false,
+  "ShowAdvancedOptions": false,
+  "FilenameMode": "Titulo + ID",
+  "UseSubfolders": false
+}

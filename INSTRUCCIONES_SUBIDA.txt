@@ -1,0 +1,33 @@
+ARCHIVOS PENDIENTES PARA SUBIR A GITHUB
+
+Repositorio:
+OsageP/YtDOWNLOADER-by-OsageP
+
+Subir manualmente estos archivos/carpetas:
+
+1) YtDOWNLOADER.ps1
+2) LICENSE
+3) assets/YtDOWNLOADER.ico
+4) assets/YtDOWNLOADER.png
+
+Pasos recomendados:
+
+1. Entra en el repositorio en GitHub.
+2. Pulsa Add file > Upload files.
+3. Arrastra YtDOWNLOADER.ps1, LICENSE y la carpeta assets.
+4. Usa este mensaje de commit:
+
+Add application script and assets
+
+5. Confirma el commit directamente en main.
+
+Importante:
+No subas logs, configuración personal ni binarios descargados:
+- YtDOWNLOADER_debug.log
+- YtDOWNLOADER_error.log
+- YtDOWNLOADER_history.json
+- YtDOWNLOADER_config.json
+- yt-dlp.exe
+- ffmpeg.exe
+- ffprobe.exe
+- deno.exe
